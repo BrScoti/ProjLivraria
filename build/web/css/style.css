@@ -1,0 +1,46 @@
+.uk-navbar-container{
+    background-color:  #333333 !important; 
+
+}
+.active{
+    color:white !important;
+}
+.cadas{
+    
+   
+
+}
+.livro,.avaliacao,.user{
+    display: none;
+    position: relative;
+    
+    left: 50%;
+}
+.avaliacao{
+    left: 110%;
+}
+.livro{
+    left: 180%;
+}
+.buttons{
+    margin-top: 1%;
+    position: fixed;
+    left: 38%;
+}
+.form{
+    color: #ffffff !important;
+}
+
+.br-theme-bars-reversed .br-widget a {
+  background-color: pink;
+}
+
+.br-theme-bars-reversed .br-widget a.br-active,
+.br-theme-bars-reversed .br-widget a.br-selected {
+  background-color: #ff446a;
+}
+
+.br-theme-bars-reversed .br-widget .br-current-rating {
+  color: #ff446a;
+  font-size: 20px;  
+}
